@@ -40,7 +40,7 @@ a {
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 4fr;
-    background-color: var(--clr-main);
+    background-color: var(--clr-dark);
 }
 
 aside {
@@ -163,7 +163,7 @@ main {
 }
 
 .prod-info {
-    background-color: var(--clr-main);
+    background-color: var(--clr-dark);
     color: var(--clr-white);
     padding: 0.5rem;
     border-radius: 1rem;
@@ -196,7 +196,7 @@ main {
 
 .add-to-cart:hover {
     color: var(--clr-white);
-    background-color: var(--clr-main);
+    background-color: var(--clr-dark);
 }
 
 /*cart*/
